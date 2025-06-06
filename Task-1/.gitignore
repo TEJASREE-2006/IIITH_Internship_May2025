@@ -1,0 +1,14 @@
+# Ignore virtual environments
+yolov8env/
+Task-1/yolov8env/
+
+# Bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code and OS junk
+.vscode/
+.DS_Store
+Thumbs.db
