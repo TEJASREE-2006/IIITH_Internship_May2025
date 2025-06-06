@@ -3,9 +3,9 @@ This repository contains the work I completed as part of my internship assignmen
 
 ## Tasks
 
-1. [YOLOv8 Object Detection](./task-01-yolov8-object-detection)
-2. 
+1. [YOLOv8 Object Detection](./Task-1)
 3. 
 4. 
+5. 
 
 ---
