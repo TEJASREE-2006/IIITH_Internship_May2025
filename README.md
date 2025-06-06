@@ -4,6 +4,7 @@ This repository contains the work I completed as part of my internship assignmen
 ## Tasks
 
 1. [YOLOv8 Object Detection](./Task-1)
+2. [YOLOv8 Image and Video Segmentation](./Task-2)
 3. 
 4. 
 5. 
