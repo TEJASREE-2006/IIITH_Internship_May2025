@@ -1,0 +1,13 @@
+# Ignore virtual environment
+venv/
+
+# Ignore large weight files
+runs/detect/train/weights/*.pt
+
+# Ignore cache and system files
+__pycache__/
+*.pyc
+*.log
+
+# Optional: ignore dataset if large
+datasets/
