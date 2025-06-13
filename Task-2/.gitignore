@@ -12,11 +12,12 @@ env/
 Thumbs.db
 
 # Ignore input/output folders if not needed on GitHub
-
-
+# video_frames/
+# segmented_video_frames/
+# segmented_images/
+# outputs/
 
 # Ignore large video or media files
-*.mp4
 *.avi
 *.mov
 *.mkv
