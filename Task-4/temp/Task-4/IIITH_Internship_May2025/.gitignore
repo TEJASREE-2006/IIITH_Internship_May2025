@@ -1,0 +1,15 @@
+# Ignore Python virtual environments
+Task-1/yolov8env/
+Task-2/yolov8env/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.pyd
+
+# Ignore other IDE files or OS files
+.DS_Store
+*.swp
+Thumbs.db

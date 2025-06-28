@@ -1,0 +1,12 @@
+train: ../data/images/train
+val: ../data/images/train  # You can change this if you add validation images later
+
+nc: 27  # Number of classes
+
+names: [
+  '5Star', 'Albeni', 'Alpenliebe', 'BarOne', 'Candy', 'Chupa Chups', 'Cone',
+  'Crispello', 'Dairy Milk', 'Dairy Milk Silk', 'Dark chocolate', 'Fruit-tella',
+  'Fuse', 'Kinder joy', 'KitKat', 'Loli pop', 'Love', 'Melody pop', 'Milkybar',
+  'Mis Max Nat', 'Munch', 'Nestle Classic', 'Nestle Nuts', 'Snickers',
+  'Tango Milk', 'Yarche', 'Zoz'
+]
