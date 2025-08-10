@@ -1,0 +1,6 @@
+train: skin_lesions_dataset/images/train
+val: skin_lesions_dataset/images/val
+test: skin_lesions_dataset/images/test
+
+nc: <5>
+names: ['acne', 'eczema', 'psoriasis', 'melanoma', 'warts']  # Example: replace with your classes
